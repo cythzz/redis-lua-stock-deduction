@@ -12,6 +12,7 @@
 
 **/generated
 target
+.m2-repository/
 out
 bin
 **/*.log
